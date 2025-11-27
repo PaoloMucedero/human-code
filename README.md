@@ -29,7 +29,7 @@
     - **ALTRIMENTI**
       - usare il coupon e il portafogli
 
-  - tornare a casa
+- **tornare a casa**
     - sistemare la spesa
     - versare le crocchette nella ciotola di Ricky
     - **SE ho comprato gli snack**
